@@ -20,12 +20,12 @@
 * **GitHub:** จัดเก็บไฟล์ นำเสนอผลงาน และจัดทำ README สำหรับ Portfolio
 
 ## Scope of Testing (ขอบเขตการทดสอบ)
-* **In-Scope (สิ่งที่เราทดสอบ):**
+* ## In-Scope (สิ่งที่เราทดสอบ)
 * ระบบการเข้าสู่ระบบ (User Authentication & Login Validation)
 * การเลือก ดูรายละเอียด และจัดเรียงรายการสินค้า (Product Listing & Sorting)
 * การเพิ่ม/ลบ สินค้าในตะกร้า (Shopping Cart Management)
 * ขั้นตอนการสั่งซื้อและกรอกข้อมูลจัดส่ง (Checkout Process)
-* **Out-of-Scope (สิ่งที่ไม่ทดสอบ):**
+* ## Out-of-Scope (สิ่งที่ไม่ทดสอบ)
 * ระบบสมัครสมาชิกใหม่ (Sign up)
 * การตัดเงินผ่าน Payment Gateway จริง
 * Performance Testing & Security Testing
@@ -33,9 +33,11 @@
 ## Files & Deliverables (เอกสารและสิ่งที่จัดทำในโปรเจกต์)
 สามารถเข้าชมรายละเอียดเอกสารการทดสอบและหลักฐานภาพถ่ายหน้าจอได้จากลิงก์ด้านล่างนี้
 
-**เปิดดูเอกสาร Test Plan & Test Cases (Google Docs) https://docs.google.com/document/d/1-f3t0Z3DLMElhs3HGJE74B9Z_K0704kPmit8sBcEhTo/edit?usp=sharing** เอกสารแผนการทดสอบและกรณีทดสอบฉบับเต็ม
+**เปิดดูเอกสาร Test Plan & Test Cases (Google Docs) https://docs.google.com/document/d/1-f3t0Z3DLMElhs3HGJE74B9Z_K0704kPmit8sBcEhTo/edit?usp=sharing** 
+เอกสารแผนการทดสอบและกรณีทดสอบฉบับเต็ม
 
-**เปิดดูรูปภาพหลักฐานการทดสอบ (Google Drive) https://drive.google.com/drive/folders/1GQr34XLrfzYeiV6KDnT1XU9hfkZo_Erv?usp=sharing** โฟลเดอร์รวบรวมภาพถ่ายหน้าจอ (Screenshots) ขณะทดสอบระบบ
+**เปิดดูรูปภาพหลักฐานการทดสอบ (Google Drive) https://drive.google.com/drive/folders/1GQr34XLrfzYeiV6KDnT1XU9hfkZo_Erv?usp=sharing** 
+โฟลเดอร์รวบรวมภาพถ่ายหน้าจอ (Screenshots) ขณะทดสอบระบบ
 
 
 ## จัดทำโดย
