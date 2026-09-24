@@ -1,4 +1,4 @@
-# saucedemo-qa-testing-portfolio
+# Saucedemo QA Testing (E-Commerce)⁠
 การทดสอบ Test Plan เเละกรณีทดสอบ Test Case สำหรับระบบซื้อขายสินค้าบนเว็บไซต์ 
 # QA Portfolio - Manual Testing (Swag Labs / SauceDemo)
 
